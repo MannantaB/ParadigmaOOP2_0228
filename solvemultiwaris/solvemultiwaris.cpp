@@ -30,6 +30,10 @@ public:
     }
 };
 
+class budi : public pekerja, public pelajar {
+
+};
+
 int main()
 {
     
