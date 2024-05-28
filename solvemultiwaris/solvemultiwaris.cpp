@@ -21,6 +21,10 @@ public :
     }
 };
 
+class pelajar : public orang {
+
+};
+
 int main()
 {
     
